@@ -1,0 +1,16 @@
+{
+  
+  "name": "50-projects-in-50-days",
+  "description": "The 50 projects in 50 days is to practice HTML, CSS & JavaScript skills that is being used in most modern web sites.\r These projects are based on Traversy Media's course.\r https://50projects50days.com/",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}
